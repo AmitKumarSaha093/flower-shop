@@ -1,0 +1,14 @@
+.header{
+    width: 1450px;
+height: 800px;
+flex-shrink: 0;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner-greeting{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
